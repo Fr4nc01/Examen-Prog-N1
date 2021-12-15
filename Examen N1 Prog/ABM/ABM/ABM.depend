@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1639577725 source:c:\users\fraian\desktop\examen n1 prog\abm\abm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1639575562 source:c:\users\fraian\desktop\examen n1 prog\abm\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1639575046 c:\users\fraian\desktop\examen n1 prog\abm\abm\funciones.h
+

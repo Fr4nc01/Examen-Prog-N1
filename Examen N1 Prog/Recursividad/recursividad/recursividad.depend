@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639567874 source:c:\users\fraian\desktop\examen n1 prog\recursividad\recursividad\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1639575265 source:c:\users\fraian\desktop\examen n1 prog\recursividad\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1639567907 c:\users\fraian\desktop\examen n1 prog\recursividad\recursividad\funciones.h
+

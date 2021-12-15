@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639569225 source:c:\users\fraian\desktop\examen n1 prog\ordenamiento\orden\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1639576848 source:c:\users\fraian\desktop\examen n1 prog\ordenamiento\orden\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1639569114 c:\users\fraian\desktop\examen n1 prog\ordenamiento\orden\funciones.h
+
