@@ -218,7 +218,7 @@ int buscar(persona persona[cant]){
 
     for(int i = 0 ; i < MAX ; i++){
 
-        if(persona[i].status == ACTIVO && strcmp(persona[i].nomYApe, nombre) == 0 && persona[i].dni == dNi){
+        if(persona[i].status == ACTIVO && persona[i].dni == dNi){
             pos = i;
             break;
         }
